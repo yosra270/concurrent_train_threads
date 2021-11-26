@@ -1,6 +1,6 @@
 # TP2 POSIX -- GL4
 ## Exclusion Mutuelle en POSIX
-![Img du problème](probleme_des_metros.PNG#gh-dark-mode-only)
+![Img du problème](probleme_des_metros.PNG)
 
 Soient 6 stations sous-sol de Berlin A, B, C, D, E, F liées par 3 lignes de Métro : MR1, MR2 et MR3. MR1 lie la station A à la station D, MR2 lie la station F à la station A, MR3 lie la station E à la station B.
 

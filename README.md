@@ -1,4 +1,4 @@
-# TP2 POSIX -- GL4
+# Programmation Concurrente
 ## Exclusion Mutuelle en POSIX
 ![Img du problème](probleme_des_metros.PNG)
 
